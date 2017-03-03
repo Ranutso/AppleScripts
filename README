@@ -1,0 +1,12 @@
+AppleScripts repository
+℗ 2017 Andre Godoi
+
+SUMMARY
+
+This is a simple repository for my AppleScript files. They are not really related to each other, each script is meant for a different purpose. As it is usual with AppleScript, they are meant to automate things related to Apple products and macOS.
+
+FILES
+
+Mail Filter.applescript: This is meant to run as a scheduled job that backups your messages to a backup mailbox. Since Apple Mail won't automatically move messages from one mailbox to another, this script is meant to accomplish this task.
+
+Mail Filter Amazon.applescript: This is the same as previous script, but it was customized to comply with Amazon's mailbox retention policies.
